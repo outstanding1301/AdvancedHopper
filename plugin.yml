@@ -1,0 +1,6 @@
+name: AdvancedHopper
+version: 1.0.0
+description: 깔때기 플러그인 (제작:염료)
+author: yeomryo@naver.com
+website: https://www.youtube.com/yeomryo
+main: com.yeomryo.ah.AdvancedHopper
